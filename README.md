@@ -204,7 +204,7 @@ function myFunction() {
 </html>
 ```
 
-### 📌 Here's the full documentation for the Garbage Level Monitoring System in Django
+### 📌 Here's the full documentation for the [Garbage Level Monitoring System in Django](https://itsourcecode.com/free-projects/python-projects/natural-disaster-management-system-project-in-django-with-source-code/)
 
 
 
